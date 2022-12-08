@@ -66,9 +66,9 @@
 ### 第一种 单行用`
 
 - `const a = 10`
+- `const fn = () => {console.log('hello world');}`
 
-### 第二种 多行用```
+## 强调
 
-- `const fn = () => {
-console.log('hello world');
-}`
+- _字体倾斜_
+- **字体加粗**
