@@ -36,3 +36,15 @@
     > hello world!
     ***
     > hello vscode
+
+## 链接
+
+### 行内式
+
+- [这是百度的链接](http://www.baidu.com)
+
+### 参数式
+
+[name]: https://mail.163.com/ "这是163的首页"
+
+- 点击这个[name]，可以访问 163 邮箱
