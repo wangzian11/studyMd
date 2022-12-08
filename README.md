@@ -53,7 +53,7 @@
 
 ### 行内式
 
-    - ![这是图片](https://ent.163.com/photoview/00AJ0003/681096.html#p=G774PAQN00AJ0003NOS)
+    ![这是图片](https://ent.163.com/photoview/00AJ0003/681096.html#p=G774PAQN00AJ0003NOS)
 
 ### 参数式
 
