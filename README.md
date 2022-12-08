@@ -57,6 +57,6 @@
 
 ### 参数式
 
-[王鸥]: https://ent.163.com/photoview/00AJ0003/681096.html#p=G774PAQJ00AJ0003NOS
+[皮影戏]: ./img/2.jpg
 
-- 这是[王鸥]
+- 这是[皮影戏]
