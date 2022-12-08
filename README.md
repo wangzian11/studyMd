@@ -63,12 +63,12 @@
 
 ## 代码框
 
-### 第一种 单行用'
+### 第一种 单行用`
 
-- 'const a = 10'
+- `const a = 10`
 
-### 第二种 多行用'''
+### 第二种 多行用```
 
-- ''' const fn = () => {
-  console.log('hello world');
-  }'''
+- `const fn = () => {
+console.log('hello world');
+}`
